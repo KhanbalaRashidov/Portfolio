@@ -18,10 +18,10 @@ export const {
       clientId: env.GITHUB_CLIENT_ID,
       clientSecret: env.GITHUB_CLIENT_SECRET,
     }),
-    GoogleProvider({
-      clientId: env.GOOGLE_CLIENT_ID,
-      clientSecret: env.GOOGLE_CLIENT_SECRET,
-    }),
+    // GoogleProvider({
+    //   clientId: env.GOOGLE_CLIENT_ID,
+    //   clientSecret: env.GOOGLE_CLIENT_SECRET,
+    // }),
   ],
   callbacks: {
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -30,7 +30,7 @@ export const {
         ...session,
         user: {
           ...session.user,
-          isAdmin: session.user?.email === env.ADMIN_EMAIL,
+          //isAdmin: session.user?.email === env.ADMIN_EMAIL,
         },
       };
     },
