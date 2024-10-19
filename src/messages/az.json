@@ -1,0 +1,144 @@
+{
+    "main": {
+      "home": "Ana səhifə",
+      "about": "Haqqımda",
+      "projects": "Layihələr"
+    },
+    "footer": {
+      "my-setup": "Mənim konfiqurasiyam",
+      "sourcecode": "Mənbə kodu",
+      "contact": "Əlaqə",
+      "analytics": "Analitika",
+      "sitemap": "Sayt xəritəsi",
+      "powered": "Dəstəklənir ",
+      "and": "və ",
+      "hosted": "Host edilir "
+    },
+    "index-page": {
+      "title": "Proqram təminatı mühəndisi və tələbə",
+      "intro": "Daha sürətli veb yaratmağa çalışıram. Veb inkişafı, .NET Core və React / Next.js öyrənirəm.",
+      "posts": {
+        "read-all": "Bütün yazıları oxu",
+        "1": {
+          "title": "İlkin Commit",
+          "slug": "ilk-commit"
+        },
+        "2": {
+          "title": "Ən Yaxşı PowerShell Terminal Quruluşu",
+          "slug": "terminal-qurulusu"
+        },
+        "3": {
+          "title": "Tam Stək Veb Tətbiqini Vercel-də Necə Yayımlamaq Olar?",
+          "slug": "vercel-deployment"
+        }
+      }
+    },
+    "about-page": {
+      "text-1": "Salam, mən Xanbala. Mən {age} yaşındayam və Azərbaycandayam. Mən NRW-də yaşayıram və boş vaxtlarımı piano çalmaq, idman etmək və dostlarla və ailəmlə vaxt keçirməklə keçirirəm.",
+      "text-2": "Uşaqlıqdan kompüterlərlə məşğul olmağa başladım və məktəbdə proqramlaşdırmaya başladım. Məktəbi bitirdikdən sonra Netgo GmbH-də işləməyə və Westfälische Hochschule-də oxumağa başladım.",
+      "text-3": "Hazırda .NET Core və Angular öyrənirəm, lakin ən sevdiyim framework NextJs-dir. Gələcəkdə öz Kubernetes klasterimi yaratmaq istəyirəm ki, bu, backend xidmətləri, verilənlər bazası inteqrasiyası və möhkəm frontend ilə birləşəcək.",
+      "website": "Vebsayt",
+      "tools": {
+        "title": "Alətlər",
+        "text": "Bu, gündəlik olaraq istifadə etdiyim alətlərdir. İş axınımı yaxşılaşdırmaq üçün yeni texnologiyaları tapmağı sevirəm.",
+        "tailwind": "CSS-ə gəldikdə, hər zaman TailwindCSS istifadə edirəm. Vebsaytınızı çox tez stil vermək üçün əla vasitədir.",
+        "next": "Veb tətbiqləri yaratmaq üçün mənim əsas framework-üm. Kod bazasının keyfiyyəti fantastikdir.",
+        "vercel": "Vebsaytınızı yayımlamaq üçün ən rahat yol. Bütün layihələrimdə ondan istifadə edirəm.",
+        "vscode": "VS Code ən çox müraciət etdiyim mətn redaktorudur, onun genişləndirmələri çox genişdir."
+      },
+      "uses": {
+        "title": "Mənim Texnologiyam",
+        "text": "Hal-hazırda kod yazmaq üçün istifadə etdiyim texnologiyalar. Çoxunu son bir neçə ildə topladım.",
+        "office": "İş stansiyası",
+        "other-tech": "Digər texnologiyalar",
+        "and": "və",
+        "configuration": "Konfiqurasiya"
+      },
+      "timeline": {
+        "title": "Zaman Xətti",
+        "learn-more": "Netgo haqqında daha çox öyrənin",
+        "1": {
+          "date": "İyul 2021",
+          "title": "Məktəbi bitirdim",
+          "description": "Məktəbi bitirdim :D"
+        },
+        "2": {
+          "title": "Netgo / Westfälische Hochschule-də ikili təhsil",
+          "description": "Mən Netgo-da proqram təminatı mühəndisi təlimçisi olaraq ilk işimə başladım. Bununla yanaşı, proqram sistemləri (İnformatika, B.SC.) üzrə təhsil aldım."
+        }
+      }
+    },
+    "404": {
+      "title": "Səhifə tapılmadı",
+      "description": "Niyə ümumi bir 404 göstərim ki, onu daha sirli göstərə bilərəm? Görünür, siz artıq mövcud olmayan bir şey tapmısınız və ya bir şey yanlış yazmısınız. Deyəsən, bir şeyi səhv yazmısınız. O URL-i bir daha yoxlayın.",
+      "return-home": "Ana səhifəyə qayıt"
+    },
+    "error": {
+      "title": "Bir şey səhv getdi",
+      "description": "Üzr istəyirəm, amma bir şey səhv getdi. Xahiş edirəm daha sonra yenidən cəhd edin.",
+      "return-home": "Ana səhifəyə qayıt"
+    },
+    "blog": {
+      "description": "Mən 2022-ci ildən bəri əsasən veb inkişafı və digər təsadüfi mövzular haqqında yazıram. Ümumilikdə, blogumda {amount} məqalə yazmışam. Başlıq üzrə filtrləmək üçün aşağıdakı axtarışdan istifadə edin.",
+      "no-posts": "Məqalə tapılmadı.",
+      "all-posts": "Bütün Məqalələr",
+      "search": "Axtar",
+      "filter": {
+        "by-name": "Ada görə",
+        "by-tag": "Etiketə görə"
+      },
+      "views": "baxışlar",
+      "reading-time": "{minutes} dəq oxuma"
+    },
+    "guestbook": {
+      "title": "Qonaq Kitabı",
+      "login": "Daxil ol ",
+      "logout": "Çıxış",
+      "form": {
+        "title": "Qonaq Kitabını İmzala",
+        "description": "Saytımın gələcək ziyarətçilərinə bir mesaj paylaşın.",
+        "input": "Mesajınız...",
+        "submit": "Göndər",
+        "info": "Məlumatlarınız yalnız adınızı göstərmək üçün istifadə olunur."
+      },
+      "success": "Hurrey! Qonaq kitabımı imzaladığınız üçün təşəkkürlər.",
+      "error": "Zəhmət olmasa bir mesaj daxil edin.",
+      "delete": "Sil"
+    },
+    "dashboard": {
+      "unauthorized": "Bu səhifəni görməyə icazəniz yoxdur.",
+      "logout": "Çıxış",
+      "logged-in": "Daxil olmusunuz",
+      "stats": "Statistikalar",
+      "top-tracks": "Top Spotify Mahnıları",
+      "metrics": {
+        "blog-views": "Blog baxışları",
+        "guestbook-entries": "Qonaq kitabı yazıları",
+        "posts-count": "Bütün məqalələrin sayı (EN)"
+      }
+    },
+    "projects": {
+      "not-found": "Heç bir layihə tapılmadı",
+      "see-more": "Bütün layihələrə bax",
+      "all-repos": "Bütün Repozitoriyalar"
+    },
+    "not-playing": "Hazırda oynanılmır",
+    "command-palette": {
+      "settings": "Parametrlər",
+      "socials": "Sosial Şəbəkələr",
+      "switch-theme": "Temanı dəyiş",
+      "switch-language": "Dili dəyiş (az)",
+      "search-placeholder": "Axtar...",
+      "no-results": "Nəticə yoxdur"
+    },
+    "stats": {
+      "title": "GitHub Statistikalarım",
+      "stars": "Alınan Ulduzlar",
+      "commits": "Ümumi Commits",
+      "prs": "Ümumi PR-lar",
+      "issues": "Ümumi İssuelar",
+      "contributed": "Töhfə verildi",
+      "top-languages": "Ən Yuxarı Dillər"
+    }
+  }
+  
